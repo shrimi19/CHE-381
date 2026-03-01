@@ -4,4 +4,3 @@ Here we use majorly three tools at our disposal:
 1) Matlab
 2) Simulink
 3) Unit operation lab calculations
-4) Python
